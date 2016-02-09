@@ -1,1 +1,2 @@
 tutorial2で編集したファイル
+tutorialのsample.txtでこの行を加える
