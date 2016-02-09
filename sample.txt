@@ -1,2 +1,4 @@
 tutorial2で編集したファイル
 tutorialのsample.txtでこの行を加える
+tutorial2で追加した行で、practiceのsample.txtと
+競合させる
