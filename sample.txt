@@ -1,1 +1,3 @@
 tutorial2で編集したファイル
+tutorial2で追加した行で、practiceのsample.txtと
+競合させる
